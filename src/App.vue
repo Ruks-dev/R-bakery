@@ -31,7 +31,7 @@ import ClientReviews from './components/ClientReviews.vue'
 import Faq from './components/Faq.vue'
 import ContactForm from './components/ContactForm.vue'
 import Footer from './components/Footer.vue'
-import CartSidebar from './components/CartSidebar.vue'
+import CartSidebar from './components/CartSideBar.vue'
 
 const cartOpen = ref(false)
 </script>
