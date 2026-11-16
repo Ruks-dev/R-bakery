@@ -49,7 +49,7 @@
 </template>
 
 <script setup>
-import { useCartStore } from '../stores/cart'
+import { useCartStore } from '../stores/Cart'
 
 defineProps({
   open: { type: Boolean, default: false }
