@@ -42,7 +42,7 @@
 
 <script setup>
 import { ref } from 'vue'
-import { useCartStore } from '../stores/cart'
+import { useCartStore } from '../stores/Cart'
 
 defineEmits(['toggle-cart'])
 
